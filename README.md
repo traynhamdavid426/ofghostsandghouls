@@ -1,4 +1,0 @@
-# ofghostsandghouls
-
-
-Ghosts site

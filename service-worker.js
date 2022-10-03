@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ofghostsandghouls/precache-manifest.cc60fc552dcabe5fa9bff2bc35b0adca.js"
+  "/ofghostsandghouls/precache-manifest.fdfc76dca1a68fcdeb48a2e0d209a015.js"
 );
 
 workbox.clientsClaim();
