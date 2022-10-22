@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e90e404e0e3fc6e707e9",
+    "revision": "a66e3c12e167607d7840",
     "url": "/ofghostsandghouls/static/css/main.dfd63063.chunk.css"
   },
   {
-    "revision": "e90e404e0e3fc6e707e9",
-    "url": "/ofghostsandghouls/static/js/main.db3527e5.chunk.js"
+    "revision": "a66e3c12e167607d7840",
+    "url": "/ofghostsandghouls/static/js/main.e3b8cad6.chunk.js"
   },
   {
     "revision": "1175b5ad49fca46db425",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/ofghostsandghouls/static/js/3.bd123369.chunk.js"
   },
   {
-    "revision": "96d8a74ded1d2ccfe049a6676c5f1f31",
+    "revision": "1abdb9fb5817f29953947ddad6904ba4",
     "url": "/ofghostsandghouls/index.html"
   }
 ];
