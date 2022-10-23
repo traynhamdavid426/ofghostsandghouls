@@ -1,7 +1,7 @@
 {
-  "main.css": "/ofghostsandghouls/static/css/main.dfd63063.chunk.css",
-  "main.js": "/ofghostsandghouls/static/js/main.e3b8cad6.chunk.js",
-  "main.js.map": "/ofghostsandghouls/static/js/main.e3b8cad6.chunk.js.map",
+  "main.css": "/ofghostsandghouls/static/css/main.3fbf7516.chunk.css",
+  "main.js": "/ofghostsandghouls/static/js/main.e0cb881f.chunk.js",
+  "main.js.map": "/ofghostsandghouls/static/js/main.e0cb881f.chunk.js.map",
   "runtime~main.js": "/ofghostsandghouls/static/js/runtime~main.d09dba41.js",
   "runtime~main.js.map": "/ofghostsandghouls/static/js/runtime~main.d09dba41.js.map",
   "static/css/2.763a8220.chunk.css": "/ofghostsandghouls/static/css/2.763a8220.chunk.css",
@@ -10,8 +10,8 @@
   "static/js/3.bd123369.chunk.js": "/ofghostsandghouls/static/js/3.bd123369.chunk.js",
   "static/js/3.bd123369.chunk.js.map": "/ofghostsandghouls/static/js/3.bd123369.chunk.js.map",
   "index.html": "/ofghostsandghouls/index.html",
-  "precache-manifest.85b21e466572c2328373f516f99d3599.js": "/ofghostsandghouls/precache-manifest.85b21e466572c2328373f516f99d3599.js",
+  "precache-manifest.2410690e6629a127fc03510b97b776a9.js": "/ofghostsandghouls/precache-manifest.2410690e6629a127fc03510b97b776a9.js",
   "service-worker.js": "/ofghostsandghouls/service-worker.js",
   "static/css/2.763a8220.chunk.css.map": "/ofghostsandghouls/static/css/2.763a8220.chunk.css.map",
-  "static/css/main.dfd63063.chunk.css.map": "/ofghostsandghouls/static/css/main.dfd63063.chunk.css.map"
+  "static/css/main.3fbf7516.chunk.css.map": "/ofghostsandghouls/static/css/main.3fbf7516.chunk.css.map"
 }
